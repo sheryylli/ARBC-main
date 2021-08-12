@@ -8,7 +8,11 @@
 html {
   scroll-behavior: smooth;
 }
-
+html{
+  background-color: black;
+  margin-top: 100px;
+   
+}
 body {
   font-family: "Inter", sans-serif;
   font-weight: normal;
